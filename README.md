@@ -1,35 +1,45 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome Brian Murphy,
+# My Very First Web Page
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+###### Brian Murphy
 
-## Gitpod Reminders
+## Getting Started:
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This is the first project I'm working on through my Code Institute
+*Fullstack Web Developer* course.
 
-`python3 -m http.server`
+## What I have Learned:
 
-A blue button should appear to click: *Make Public*,
+The project is in the *User Centric Frontend Development* module.
+Mark Rudge is the lecturer. 
 
-Another blue button should appear to click: *Open Browser*.
+I have three html files all linked to each other. On each page there is
+a six hyperlinks to a technology I will be using in different sections 
+of the course.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+I've used CSS to style the links.
 
-A blue button should appear to click: *Make Public*,
+The main purpose of this project has been to introduce the student to gitpod
+and how to push repositories to github to save their work.
+I hadn't used github or gitpod before and that has been the first 
+technology I've used on the course that I hadn'technology used before.
 
-Another blue button should appear to click: *Open Browser*.
+## Technologies Used:
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+html
 
-## Updates Since The Instructional Video
+CSS
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+gitpod
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+github
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Thanks:
 
---------
+Code Institute 
 
-Happy coding!
+Mark Rudge for the step by step guidance in this section.
+
+https://seeklogo.com/ for supplying the images I've used on this
+project.
